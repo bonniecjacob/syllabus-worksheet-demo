@@ -4,70 +4,111 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <article xml:id="tutoring-syllabus">
-    <title>Fall 2025 Syllabus</title>
-    <subtitle>Tutoring</subtitle>
+  <article xml:id="math240-syllabus">
+    <title>Spring 2025 Syllabus</title>
+    <subtitle>MATH/COMP SCI 240</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
     <section xml:id="sec-course-info">
-      <title>Tutoring Information</title>
+      <title>Course Information</title>
       <p>
         <dl>
           <li>
-            <title>List of Courses</title>
+            <title>Course Description</title>
             <p>
-              MATH-190, MATH-200, ...
+              Basic concepts of logic, sets, partial order and other relations, and functions. Basic concepts of mathematics (definitions, proofs, sets, functions, and relations) with a focus on discrete structures: integers, bits, strings, trees, and graphs. Propositional logic, Boolean algebra, and predicate logic. Mathematical induction and recursion. Invariants and algorithmic correctness. Recurrences and asymptotic growth analysis. Fundamentals of counting.
+            </p>
+          </li>
+          <li>
+            <title>Credits</title>
+            <p>
+              3
+            </p>
+          </li>
+          <li>
+            <title>Course Designations and Attributes</title>
+            <p>
+              <dl>
+                <li>
+                  <title>Breadth</title>
+                  <p>
+                    Natural Science
+                  </p>
+                </li>
+                <li>
+                  <title>Level</title>
+                  <p>
+                    Intermediate
+                  </p>
+                </li>
+                <li>
+                  <title>L&amp;S Credit</title>
+                  <p>
+                    Counts as Liberal Arts and Science credit in L&amp;S
+                  </p>
+                </li>
+              </dl>
+            </p>
+          </li>
+          <li>
+            <title>Requisite</title>
+            <p>
+              MATH 217 or 221
             </p>
           </li>
           <li>
             <title>Instructional modality</title>
             <p>
-              In-person only during open hours.  In-person or Zoom by appointment.  
+              In-person
             </p>
           </li>  
         </dl>
       </p>
       <paragraphs>
-        <title>Available Times and Locations</title>
-        <dl>
-          <li>
-            <title>Open Hours</title>
-            <p>
-              M 9:30am<ndash/>11:30am in TBA.  
-            </p>
-          </li>
-          <li>
-            <title>Appointments</title>
-<ul>
-          <li>
-            <p>
-              M 2pm<ndash/>4:30pm in LBJ2275.
-            </p>
-          </li>
-          <li>
-            <p>
-              W 9:30am<ndash/>11:30am and 2pm<ndash/>4:30pm in LBJ2275.
-            </p>
-          </li>
-          <li>
-            <p>
-              Th 9:30am<ndash/>11:30am in LBJ2275.
-            </p>
-          </li>
-         </ul>
-          </li>
-        </dl>
+        <title>Learning Outcomes</title>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Be able to construct proofs by induction to prove properties in a variety of domains (mathematical formulas, recursively-defined structures, loop invariants, correctness of recursive programs).
+              </p>
+            </li>
+            <li>
+              <p>
+                Apply basic combinatoric techniques to counting problems.
+              </p>
+            </li>
+            <li>
+              <p>
+                Develop basic skills to construct mathematically rigorous arguments and proofs.
+              </p>
+            </li>
+            <li>
+              <p>
+                Gain exposure to the basics of program analysis (program correctness, recurrences, asymptotic analysis).
+              </p>
+            </li>
+            <li>
+              <p>
+                Demonstrate a familiarity with and an ability to reason about discrete structures/data types (integers, strings, bit strings, sets, relations, functions, graphs, trees).
+              </p>
+            </li>
+          </ol>
+        </p>
       </paragraphs>
       <paragraphs>
-        <title>How to make an appointment</title>
+        <title>Meeting Times and Locations</title>
         <p>
-          To make an appointment, email me at <url href="mailto:bcjntm@rit.edu" visual="bcjntm@rit.edu">bcjntm@rit.edu</url> with a few times that would work for you within the available appointment times listed above.  Requests less than one full business day in advance may not be in time for an appointment.  
+          Both sections have lecture meetings in Van Vleck Hall B102. LEC 001 meets TR 11am<ndash/>12:15pm and LEC 002 meets TR 9:30<ndash/>10:45am. Each student is enrolled in one 50-minute discussion section led by one of the teaching assistants. Your discussion section meets either on Monday or Wednesday. Check your Student Center for your discussion number, time, and location.
         </p>
+      </paragraphs>
+      <paragraphs>
+        <title>How the Credit Hours are Met by the Course</title>
         <p>
-          During the open time, you do not need an appointment.  Just show up during the open hours with your questions and course material.  
+          This class meets for two 75-minute lectures and one 50-minute discussion each week over the  semester and carries the expectation that students will work on course learning activities (e.g. reading, problem sets, papers, and studying) for about six hours outside of classroom per week. The syllabus includes more information about meeting times and expectations for student work.
         </p>
       </paragraphs>
     </section>
